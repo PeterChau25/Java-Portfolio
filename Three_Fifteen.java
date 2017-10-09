@@ -1,12 +1,6 @@
-//Written by:    Tai Chun Chau, Juan Peralta
-//Assignment:    Lab02-Page 111 3.15
-//Class:         CoSci 290
-//Date:          10/9/17
-//Description:   Revise Listing 3.8, Lottery.java to generate 3 digit instead of two
 
-//Lottery game with 3 random digit
 import java.util.Scanner;
-public class Three_Fifteen
+public class LotteryGame
 {
     public static void main(String[] args) 
     {
